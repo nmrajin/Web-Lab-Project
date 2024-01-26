@@ -1,4 +1,4 @@
-E-Commerce website for CSE 472 & Web and Internet Programming  Lab  
+E-Commerce Web Application for CSE 472-Web and Internet Programming  Lab  
 ==================================================================
 
 #A PHP E-Commerce Web Application.
