@@ -21,7 +21,7 @@ The E-Commerce Website is a web application that provides an interface for manag
 
 ## Features
 
-- **Product ADD**: Admin can add new product in the website from his account.
+- **Product Add**: Admin can add new product in the website from his account.
 - **Product Delete**: Admin can add delete product in the website from his account.
 - **Quantity Edit**: Admin can add edit product quantity in the website from his account.
 - **Shopping Cart**: Users can add product and manage their shopping cart by inresing quantity or deleting product.
