@@ -17,7 +17,7 @@ This repository contains the code for a E-Commerce Website, a web-based applicat
 
 ## Introduction
 
-The E-Commerce Website is a web application that provides an interface for managing sales data, fuel inventory, and employee management. It is built using PHP, HTML, CSS, and JavaScript.
+The E-Commerce Website is a web application that provides an interface for managing product, buying product, and order tracking. It is built using PHP, HTML, CSS, and JavaScript.
 
 ## Features
 
